@@ -8,7 +8,7 @@
 - **settings.yaml、input、prompts**皆已修正與中文化
 - python sdk版本為**[global_search.py](https://github.com/shain120/nqu_agent_graphrag/blob/main/graphrag_ollama/global_search.py)
 
-需要其它版本請於[settings.yaml](https://github.com/shain120/nqu_agent_graphrag/blob/main/graphrag_ollama/settings.yaml)修改
+需要其它ollama模型、版本請於[settings.yaml](https://github.com/shain120/nqu_agent_graphrag/blob/main/graphrag_ollama/settings.yaml)修改
 
 ---
 
