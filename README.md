@@ -1,5 +1,3 @@
-# nqu_agent_graphrag
-
 # GraphRAG 使用流程紀錄
 
 ## 環境需求
